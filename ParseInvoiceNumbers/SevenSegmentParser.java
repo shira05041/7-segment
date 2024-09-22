@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class SevenSegmentParser {
@@ -43,8 +42,6 @@ public class SevenSegmentParser {
             numbers.add(number);  
         }   
         return numbers;   
-    }
-            
+    }      
 }
-    
  
